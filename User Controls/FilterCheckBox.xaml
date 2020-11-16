@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="KillProcesses.User_Controls.FilterCheckBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:KillProcesses.User_Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ContextMenu>
+            <ContextMenu>
+                <MenuItem Header="Edit" Name="EditMI" Click="EditMI_Click"></MenuItem>
+                <MenuItem Header="Delete" Name="DeleteMI" Click="DeleteMI_Click"></MenuItem>
+            </ContextMenu>
+        </Grid.ContextMenu>
+        <CheckBox Margin="5" IsChecked="false" Name="MyCheckBox" Checked="MyCheckBox_Checked" Unchecked="MyCheckBox_Unchecked">
+            <Grid x:Name="ContentG">
+            <TextBox x:Name="InputTB" KeyDown="TextBox_KeyDown">[name]</TextBox>
+        </Grid>
+        </CheckBox>
+    </Grid>
+</UserControl>

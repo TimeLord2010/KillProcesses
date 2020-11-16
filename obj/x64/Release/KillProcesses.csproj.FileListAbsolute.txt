@@ -1,0 +1,30 @@
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\KillProcesses.exe.config
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\KillProcesses.exe
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\KillProcesses.pdb
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\EntityFramework.dll
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\EntityFramework.SqlServer.dll
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\System.Data.SQLite.dll
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\System.Data.SQLite.EF6.dll
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\System.Data.SQLite.Linq.dll
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\System.ValueTuple.dll
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\EntityFramework.xml
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\EntityFramework.SqlServer.xml
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\System.Data.SQLite.xml
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\System.Data.SQLite.dll.config
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\bin\x64\Release\System.ValueTuple.xml
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\KillProcesses.csprojAssemblyReference.cache
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\MainWindow.g.cs
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\User Controls\FilterCheckBox.g.cs
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\App.g.cs
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\KillProcesses_MarkupCompile.cache
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\KillProcesses_MarkupCompile.lref
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\App.baml
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\MainWindow.baml
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\User Controls\FilterCheckBox.baml
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\KillProcesses.g.resources
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\KillProcesses.Properties.Resources.resources
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\KillProcesses.csproj.GenerateResource.cache
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\KillProcesses.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\KillProcesses.csproj.CopyComplete
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\KillProcesses.exe
+C:\Users\DESKTOP\Documents\Visual Studio 2019\Projects\KillProcesses\obj\x64\Release\KillProcesses.pdb
